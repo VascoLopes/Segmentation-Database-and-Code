@@ -1,0 +1,2 @@
+/home/mfernandes/icarsc_Vasco/code/build/CMakeFiles/min_cut_segmentation.dir
+/home/mfernandes/icarsc_Vasco/code/build/CMakeFiles/segmentation.dir
